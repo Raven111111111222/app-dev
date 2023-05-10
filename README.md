@@ -2,8 +2,9 @@
 My first repository
 <html>
   <head>
-    <centre><h1>My favorite series</h1></centre>  
   </head>
-
+<body>
+  <h1>My Favorite Movies Series</h1>
+  </body>
 
 </html>
