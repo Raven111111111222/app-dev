@@ -2,7 +2,7 @@
 My first repository
 <html>
   <head>
-    <h1>My favorite series</h1>  
+    <center><h1>My favorite series</h1></center>  
   </head>
 
 
