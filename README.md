@@ -1,10 +1,16 @@
 # app-dev
 My first repository
+
 <html>
-  <head>
-  </head>
+<head>
+	<center><h1>My Favorite Series/Movie</h1></center>
+</head>
 <body>
-  <h1>My Favorite Movies/Series</h1>
-  </body>
+<ol>
+	<li>Jack Reacher </li>
+	<li>Knight and Day</li>
+	<li>Mission Impossible series</li>
+</ol>	
+</body>	
 
 </html>
