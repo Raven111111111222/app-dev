@@ -4,7 +4,7 @@ My first repository
   <head>
   </head>
 <body>
-  <h1>My Favorite Movies Series</h1>
+  <h1>My Favorite Movies/Series</h1>
   </body>
 
 </html>
